@@ -14,3 +14,6 @@ A simple React app that displays kids activities with image carousel, navigation
 - React (useState)
 - JavaScript (ES6)
 - CSS
+
+### Demo
+[Live Demo on Netlify]()
