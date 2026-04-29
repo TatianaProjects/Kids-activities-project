@@ -16,4 +16,4 @@ A simple React app that displays kids activities with image carousel, navigation
 - CSS
 
 ### Demo
-[Live Demo on Netlify]()
+[Live Demo on Netlify](https://kidsactivities2026.netlify.app/)
