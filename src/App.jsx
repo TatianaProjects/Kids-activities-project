@@ -51,7 +51,7 @@ function App () {
 
   const safeIndex = index >= activities.length ? 0 : index;
   const currentActivity = activities[index];
-  const { id, name, description, age, price, images } = activities[safeIndex];
+  const { id, name, description, address, age, price, images } = activities[safeIndex];
  
   const currentImages = images || [];
   const safeImgIndex = imgIndex % currentImages.length;
@@ -90,6 +90,7 @@ return (
         <h2>{name}</h2>
         <p>{description}</p>
 
+        <p><strong>Address:</strong> {address}</p>
         <p><strong>Age:</strong> {age}</p>
         <p><strong>Price:</strong> {price}</p>
 
