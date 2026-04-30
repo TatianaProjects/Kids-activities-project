@@ -2,8 +2,8 @@ export const data = [
   {
     id: 1,
     name: "Extreme Trampoline Park",
-    description: "Indoor trampoline park with foam pits, dodgeball, and kids zone.",
-    address: "50 Frank Nighbor Pl, Kanata, ON",
+    description: "Indoor trampoline park with foam pits, dodgeball and kids zone.",
+    address: "50 Frank Nighbor Pl, Stitsville",
     age: "All ages",
     price: "$15–25 per session",
     images: [
@@ -17,7 +17,7 @@ export const data = [
     id: 2,
     name: "Altitude Gym (Climbing)",
     description: "Indoor climbing gym for beginners and advanced climbers.",
-    address: "501 Palladium Dr, Kanata, ON",
+    address: "Various locations across Ottawa",
     age: "6+",
     price: "$20–30",
     images: [
@@ -45,8 +45,8 @@ export const data = [
   {
     id: 4,
     name: "Public Swimming Pools",
-    description: "Family-friendly public swimming options in Kanata and Stittsville.",
-    address: "Multiple locations",
+    description: "Family-friendly public pools with leisure swims, lanes,waves and kids areas",
+    address: "Various locations across Ottawa",
     age: "All ages",
     price: "$3–6 per visit",
     images: [
@@ -61,7 +61,7 @@ export const data = [
     id: 5,
     name: "Rideau Gymnastics (Resolute)",
     description: "Gymnastics programs for kids with professional coaching.",
-    address: "Resolute Gymnastics, Ottawa",
+    address: "150 Katimavik Rd unit 101, Kanata",
     age: "All ages",
     price: "$15–25 per class",
     images: [
