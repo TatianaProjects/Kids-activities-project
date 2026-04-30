@@ -76,7 +76,7 @@ function App () {
 return (
     <div>
       <div className="container">
-        <h1 className="title">Kids Activities in Ottawa({activities.length})</h1>
+        <h1 className="title">Fun Kids Activities in Ottawa({activities.length})</h1>
       </div>
 
       <div className="card">
